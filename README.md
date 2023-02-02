@@ -1,11 +1,23 @@
-# Chef Coffee 
+# Chef Coffee - README
 
-## About US
+## Installation
+This project does not require installation, just access the website address to view and interact with it.
 
-Project developed using HTML, CSS, SCSS, BOOTSTRAP, JAVASCRIPT and JQUERY.
+# Demonstration 
 
-Decides to remake an old project reusing new technologies, the first time I used only HTML and CSS. Now with new knowledge comes a totally new and complete project.
+![FireShot Capture 033 - Chef Coffee - project-chef-coffee vercel app (1)](https://user-images.githubusercontent.com/122818137/216384060-7692cd48-3860-4593-9e13-9f49f1c3a910.png)
 
-# Demo
+## Usage
+When accessing the Chef Coffee website, you will be able to view coffee options, hot and cold drinks, as well as Recipes.
 
-![NEW chef coffee](https://user-images.githubusercontent.com/79466541/208735837-da01108f-65c8-4ecf-8f4d-900468ec7c4a.png)
+## Technologies Used
+This project was developed using the following technologies:
+- HTML
+- CSS
+- SCSS
+- Bootstrap
+- JavaScript
+- jquery
+
+## Contribution
+This project is fictitious being created for study purposes. Therefore, there is no possibility of contribution at the moment.
